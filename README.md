@@ -1,6 +1,6 @@
 # Resume-Templates
-A collection of resources for resume/CV
 
+A collection of resources t build your best resume/CV, either for college applications or for your job search.
 
 This should be one of the most helpful resources when it comes to resume building. It specifically caters all different usage from university applications to technical jobs.
 
